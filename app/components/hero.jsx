@@ -44,7 +44,7 @@ function Hero() {
                 
                 <motion.div className='flex justify-center' whileHover="hover">
                     <motion.button className='text-[#4FFFA0] -translate-y-1 rounded-full bg-[#676767] py-5 z-40 px-12 font-bold mt-10 text-xl' variants={buttonVariants}>
-                    <a href="https://hikmah-hacks.devfolio.co/"><b>REGISTER TODAY</b></a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScTJEXbxiAzprv94xkDxYyFo8jjRlGuoPXYwvBPXgtZpR3v4A/viewform?usp=sharing"><b>REGISTER TODAY</b></a>
                     </motion.button>
                 </motion.div>
             </motion.div>
